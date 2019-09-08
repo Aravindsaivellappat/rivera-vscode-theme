@@ -1,7 +1,7 @@
 {
     "name": "rivera",
     "displayName": "Rivera",
-    "description": "Moody but elagant theme for VSCode",
+    "description": "Moody but elegant theme for VSCode",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.38.0"

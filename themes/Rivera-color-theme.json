@@ -4,7 +4,14 @@
 	"colors": {
 		"editor.background": "#F2F2F2",
 		"editor.foreground": "#333333",
-		"sideBar.background": "#6FABB3",
+		"sideBar.background": "#011826",
+		"sideBar.foreground": "#b1cad4",
+		"sideBar.dropBackground": "#CCCCCFDD",
+		"sideBarSectionHeader.foreground": "#F28D52",
+		"list.hoverBackground": "#204766",
+		"list.hoverForeground": "#04D9D9",
+		"list.activeSelectionBackground": "#204766",
+		"list.activeSelectionForeground": "#04D9D9"
 	},
 	"tokenColors": [
 		{
@@ -57,7 +64,8 @@
 				"storage"
 			],
 			"settings": {
-				"foreground": "#436073"
+				"fontStyle": "italic bold",
+				"foreground": "#2C246E"
 			}
 		},
 		{
@@ -78,7 +86,7 @@
 				"variable.language"
 			],
 			"settings": {
-				"foreground": "#982062"
+				"foreground": "#1C7436"
 			}
 		},
 		{
@@ -88,7 +96,7 @@
 				"support.variable"
 			],
 			"settings": {
-				"foreground": "#7A3E9D"
+				"foreground": "#56366C"
 			}
 		},
 		{
